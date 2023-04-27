@@ -39,4 +39,4 @@ React components.
 
 ## Contact
 
-Kevin Haller - [kevin.haller@tuwien.ac.at](mailto:kevin.haller@tuwien.ac.at)
+Kevin Haller - [contact@kevinhaller.dev](mailto:contact@kevinhaller.dev)
