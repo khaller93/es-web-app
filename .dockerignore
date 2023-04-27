@@ -1,0 +1,11 @@
+build/
+
+node_modules/
+demo
+Makefile
+README.md
+package-lock.json
+.gitignore
+
+# remove configuration folders
+*_configuration

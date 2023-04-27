@@ -1,0 +1,8 @@
+{
+  "mode": "esm",
+  "server": {
+    "ESM": {
+      "url": "/api/"
+    }
+  }
+}

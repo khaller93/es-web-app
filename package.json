@@ -1,0 +1,60 @@
+{
+  "name": "esm",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.9.11",
+    "@material-ui/icons": "^4.9.1",
+    "@material-ui/lab": "^4.0.0-alpha.50",
+    "axios": "^0.19.2",
+    "clsx": "^1.1.0",
+    "datejs": "^1.0.0-rc3",
+    "history": "^4.9.0",
+    "jshashes": "^1.0.8",
+    "material-ui-flat-pagination": "^4.1.0",
+    "moment": "^2.24.0",
+    "numeral": "^2.0.6",
+    "prop-types": "^15.7.2",
+    "query-string": "^6.12.1",
+    "react": "^16.13.1",
+    "react-clipboard.js": "^2.0.16",
+    "react-codemirror2": "^6.0.1",
+    "react-dom": "^16.13.1",
+    "react-intl": "^3.12.1",
+    "react-redux": "^7.2.0",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "^3.4.1",
+    "react-spring": "^8.0.27",
+    "react-window": "^1.8.5",
+    "redux": "^4.0.5",
+    "redux-logger": "^3.0.6",
+    "redux-promise-middleware": "^6.1.2",
+    "redux-thunk": "^2.3.0",
+    "yasgui-yasqe": "^2.11.22"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "airbnb"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "eslint": "6.8.0",
+    "eslint-config-airbnb": "^18.2.0"
+  }
+}
