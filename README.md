@@ -1,4 +1,4 @@
-# Exploratory Search Web Application
+# Exploratory Search Web Application (Inactive)
 
 ## Running
 
