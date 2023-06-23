@@ -31,8 +31,6 @@ the running `exploratory-search-microservice`.
 docker build . -t yyyy/esw:latest
 ```
 
-Images can be found [here](https://hub.docker.com/r/khaller/esw/tags)
-
 ## Development
 This project is following the Javascript [styleguide](https://github.com/airbnb/javascript) from Airbnb for Javascript and
 React components.
